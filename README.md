@@ -1,5 +1,5 @@
 # 5th-Assignment
-multiple Linear Regression
+Multiple Linear Regression
 
 Que-1. Prepare a prediction model for profit of 50_startups data.
 
